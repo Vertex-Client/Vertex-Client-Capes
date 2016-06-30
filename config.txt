@@ -1,0 +1,4 @@
+{
+  "peacestorm": "https://raw.githubusercontent.com/Vertex-Client/Vertex-Client-Capes/master/minecon-2015.png"
+
+}
