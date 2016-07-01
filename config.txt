@@ -1,4 +1,4 @@
 {
-  "peacestorm": "https://raw.githubusercontent.com/Vertex-Client/Vertex-Client-Capes/master/peacestorm cape.png"
+  "peacestorm": "https://raw.githubusercontent.com/Vertex-Client/Vertex-Client-Capes/master/peacestorm-cape.png"
 
 }
